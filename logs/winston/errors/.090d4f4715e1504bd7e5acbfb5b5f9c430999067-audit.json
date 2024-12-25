@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\.090d4f4715e1504bd7e5acbfb5b5f9c430999067-audit.json",
+    "files": [
+        {
+            "date": 1688288226129,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-14-error.log",
+            "hash": "166c3886b0dc2929f331969a95e124329902a581f5250e98af54b723ad17f8c4"
+        },
+        {
+            "date": 1688288449510,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-15-error.log",
+            "hash": "bfe6f54bd09a2ef5d1a097bb45812192b3aa8ac9cb5ebe692b97871df0ef60b3"
+        },
+        {
+            "date": 1688305146134,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-19-error.log",
+            "hash": "ba95c8e989b901a916e05a4e91262acf015535f56f76b1309294c227160f0c75"
+        },
+        {
+            "date": 1688306415759,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-20-error.log",
+            "hash": "9ead4e956ae9bca4f12dfbe40ff5456994fb2fce9ca6c50c557f5b87ab5bed7e"
+        },
+        {
+            "date": 1688312295285,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-21-error.log",
+            "hash": "32b033306906066bead085c3637dc92406f89b020ea51a1fbb7b573f5796a9d6"
+        },
+        {
+            "date": 1688318306717,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-02-07-23-error.log",
+            "hash": "a57283830ccc9f93888885f07886c73dcdbfff28af441c175767a0b3d9bae886"
+        },
+        {
+            "date": 1688323397133,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-00-error.log",
+            "hash": "34c6ff0ea711dfc113bf1caa1568909de94eed21b87e21af29fc4e9296d2af61"
+        },
+        {
+            "date": 1688325911244,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-01-error.log",
+            "hash": "98e2046beee1b7de3726e3558d4e0de22803b013a1060c7dd3ae701f6a3273d4"
+        },
+        {
+            "date": 1688328172141,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-02-error.log",
+            "hash": "206bd1769430144d211afbe156eb2b86bb4f01d010011bc154eb0b668b82b949"
+        },
+        {
+            "date": 1688334356406,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-03-error.log",
+            "hash": "8fadffdcfdd7a9bf2951da9f719bda4eb16cca5c8fb48e6f3efed071c9305398"
+        },
+        {
+            "date": 1688335417749,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-04-error.log",
+            "hash": "b7bb66a5bd8ce352db3fddf3301b26ed4e00c8cc5baea25d6ce1291c20d6e7a7"
+        },
+        {
+            "date": 1688338813974,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-05-error.log",
+            "hash": "3329953a4f9990489d2d6a0bfbef9da294ac53bb1df82d849d3e094b74eeaae0"
+        },
+        {
+            "date": 1688343920671,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-06-error.log",
+            "hash": "e8f0ebb683f77de0d72f970d981176f5b8b16c2b81082e54ac173a8863ce2ef7"
+        },
+        {
+            "date": 1688350751162,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-08-error.log",
+            "hash": "0901d818f469f9f5ed304bcec5146c9086f672c96514c88fb6fd736474123d12"
+        },
+        {
+            "date": 1688383695516,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-17-error.log",
+            "hash": "43b35621e9e41364c54290071851a70566c93cf1ac2173a0e992e759de844ed3"
+        },
+        {
+            "date": 1688385602216,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-18-error.log",
+            "hash": "e7f6260bab027cc434bad8f8469693f4ae4dbf385b85016875fb2995d535e50f"
+        },
+        {
+            "date": 1688392311228,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-19-error.log",
+            "hash": "44e4a5b4879dd1be4591fc81ac0d86175d82deb40a8fa98d1d12b1b5d405c44a"
+        },
+        {
+            "date": 1688392803654,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-20-error.log",
+            "hash": "d1dd460284acbce98772518b2452f4f92cf85158c53d61be0be8414932b568f8"
+        },
+        {
+            "date": 1688396517767,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-21-error.log",
+            "hash": "6191ec1d5bbf6c93c5cfb4d1b61876f05d492793b81c287e83382ece4e45abe6"
+        },
+        {
+            "date": 1688400125872,
+            "name": "D:\\NextLevel\\Assignment\\Assignment-3\\cow-hut-server\\logs\\winston\\errors\\sh-2023-03-07-22-error.log",
+            "hash": "191194e8b8ca7e27463339abe3ce94dd7ee52ceff58b1257fffe48eb57462562"
+        }
+    ],
+    "hashType": "sha256"
+}

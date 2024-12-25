@@ -1,0 +1,20 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.FormRoutes = void 0;
+const express_1 = __importDefault(require("express"));
+const validateRequest_1 = __importDefault(require("../../middlewares/validateRequest"));
+const forms_validation_1 = require("./forms.validation");
+const forms_controller_1 = require("./forms.controller");
+const router = express_1.default.Router();
+router.post('/', (0, validateRequest_1.default)(forms_validation_1.FormValidation.createFormZodSchema), forms_controller_1.FormController.createForm);
+router.get('/', forms_controller_1.FormController.fetchAllForms);
+router.get('/:id', forms_controller_1.FormController.getFormData);
+router.patch('/:id', forms_controller_1.FormController.updateForm);
+router.patch('/addField/:id', forms_controller_1.FormController.addField);
+router.patch('/deleteField/:id', forms_controller_1.FormController.deleteField);
+router.patch('/updateField/:id', forms_controller_1.FormController.updateField);
+router.delete('/:id', forms_controller_1.FormController.deleteForm);
+exports.FormRoutes = router;

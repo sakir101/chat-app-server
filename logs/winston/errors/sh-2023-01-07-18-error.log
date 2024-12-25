@@ -1,0 +1,4 @@
+Sat Jul 01 2023 18:25:50 [SH] error: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+Sat Jul 01 2023 18:30:34 [SH] error: Attempted illegal state transition from [TRANSACTION_COMMITTED] to [TRANSACTION_ABORTED]
+Sat Jul 01 2023 18:32:20 [SH] error: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED]
+Sat Jul 01 2023 18:36:10 [SH] error: Cast to ObjectId failed for value "210100001" (type string) at path "_id" for model "Student"
